@@ -4,6 +4,7 @@ email: abednegoaginam@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This site welcomes programmers from all walks of life. You're welcome to 
   Programming hub
+theme: minima
 
 # social links
 twitter_username: abednego_aginam # DO NOT include the @ character, or else the build will fail!
